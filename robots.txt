@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: 
+
+Sitemap: https://jyz2012.github.io/sitemap.xml
