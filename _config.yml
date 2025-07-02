@@ -121,8 +121,8 @@ comments:
   giscus:
     repo: jyz2012/jyz2012.github.io # <gh-username>/<repo>
     repo_id: R_kgDOPFfxvw
-    category: Polls
-    category_id: DIC_kwDOPFfxv84CsXRO
+    category: Announcements
+    category_id: DIC_kwDOPFfxv84CsXRJ
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
